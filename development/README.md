@@ -121,10 +121,8 @@ The `.pylintrc` file of this template project has been **amended to adhere to te
 
 * Maximum number of lines in a module.
   > max-module-lines=135
-
-
+  
 <br>
-
 
 ### pytest & pytest coverage
 
@@ -137,9 +135,7 @@ pytest --cov-report term-missing  --cov src/{directory.name}/...py tests/{direct
 
 for test and test coverage, respectively.
 
-
 <br>
-
 
 ### flake8
 
