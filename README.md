@@ -1,6 +1,8 @@
 <br>
 
-**arc-rnn-lstm-vaults**
+**vaults**
+
+Prepares storage areas.
 
 <br>
 <br>
