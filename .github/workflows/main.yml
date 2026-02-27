@@ -1,4 +1,4 @@
-name: 'Hydrography: Interacting with model artefacts vaults'
+name: 'hydrography: vaults prepares storage areas'
 
 on: [push]
 
